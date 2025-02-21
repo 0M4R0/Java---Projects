@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class temperatureConverter {
 
     // convert celsius to fahrenheit
     public static float celsiusToFahrenheit(float celsius) {
